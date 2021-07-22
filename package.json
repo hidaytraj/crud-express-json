@@ -1,0 +1,16 @@
+{
+  "name": "crud-express-json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "Hidayt",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nanoid": "^3.1.23"
+  }
+}
